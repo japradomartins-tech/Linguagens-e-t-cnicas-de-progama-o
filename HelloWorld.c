@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-  printif("hello word");
+  printif("hello world");
 return 0;
 }
