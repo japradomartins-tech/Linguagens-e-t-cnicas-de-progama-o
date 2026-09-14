@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-	float c, f;
+	float f, c;
 
     printf("Digite a temperatura em Celsius: ");
     scanf("%f", &c);
