@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[]) {
 	char nome[100];
-	double salarioFixo, vendas, totalReceber;
+	double salarioFixo, totalReceber, vendas;
 	
 	printf("Digite o nome do vendedor: ");
 	scanf("%s", nome);
